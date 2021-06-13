@@ -1,2 +1,1 @@
-# vanguard-bypass
-priv8
+# equ8-bypass
